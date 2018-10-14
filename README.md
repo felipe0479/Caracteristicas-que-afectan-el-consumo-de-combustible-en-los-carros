@@ -4,7 +4,7 @@ Integrantes:
 Juan Felipe Silva Garces 2141362
 Javier Camilo Rueda Serrano 2141380
 
-En el siguiente proyecto utilizaremos Machine Learning Regression, en donde se tratara de predecir lo mas cercano posible las emisiones de diferentes gases de distintos carros de tal manera que utlizaremos dicha informacion localizada en distintos datasets que años atras, para ser mas exactos desde el año de 1984 hasta este año 2018, donde hay cuantiosa de informacion y podra ser utilizada para dicho fin, esperamos lograr este objetivo, de tal manera conoceremos que cantidad emiten varios gases por distintos carros en Estados Unidos ya que mencionada informacion fue expuesta y analizada por la EPA (United States Environmental Protection Agency), de esta manera esta informacion genera confianza para poder ser analizada para esta finalidad y poder dar un resultado fiable o seguro.
+El proyecto que llevaremos a cabo en el curso de Inteligencia Artificial I, implementa el uso de Machine Learning Regression, inicialmente tomaremos los datos registrados en un datasets que más adelante enseñaremos, ellos cuales son sobre las emisiones de gases que tienen los vehículos de diferentes marcas desde el año 1984 hasta el presente año, gracias a estos datos se puede comprender e interpretar el consumo de combustible de estos vehículos. Así entonces se tratara de predecir lo mas cercano posible las emisiones de diferentes gases de distintos. Esperamos lograr este objetivo, de tal manera conoceremos que cantidad emiten varios gases por distintos carros en Estados Unidos ya que mencionada informacion fue expuesta y analizada por la EPA (United States Environmental Protection Agency), de esta manera esta informacion genera confianza para poder ser analizada para esta finalidad y poder dar un resultado fiable o seguro.
 
 URL datasets: https://www.epa.gov/compliance-and-fuel-economy-data/data-cars-used-testing-fuel-economy
 
@@ -16,4 +16,4 @@ Los Datos a utlizar son:
 - NOx (g/mi), Nitrogen Oxide
 - CH4 (g/mi), MeThane
 - N2O (g/mi), Nitrous Oxide
-donde (g/mi) es mi gallon per mile
+donde (g/mi) son los galones por milla
