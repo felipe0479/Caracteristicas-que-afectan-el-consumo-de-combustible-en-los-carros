@@ -4,9 +4,9 @@
 
 # Características que afectan el consumo de combustible en los carros
 
-Integrantes: 
-Juan Felipe Silva Garces 2141362
-Javier Camilo Rueda Serrano 2141380
+### Integrantes: 
+/nJuan Felipe Silva Garces 2141362
+/nJavier Camilo Rueda Serrano 2141380
 
 ## Resumen
 
