@@ -2,7 +2,7 @@
 
 
 
-# Proyecto-Clase-Caracteristicas-que-afectan-el-consumo-de-combustible-en-los-carros | Dataset Cars
+# Características que afectan el consumo de combustible en los carros
 
 Integrantes: 
 Juan Felipe Silva Garces 2141362
