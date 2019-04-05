@@ -6,8 +6,8 @@
 
 ### Integrantes: 
 
-Juan Felipe Silva Garces - 2141362
-Javier Camilo Rueda Serrano - 2141380
+- Juan Felipe Silva Garces
+- Javier Camilo Rueda Serrano
 
 ## Resumen
 
