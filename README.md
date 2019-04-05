@@ -1,3 +1,7 @@
+<img src="../BANNER.jpg" style="width:700px;">
+
+
+
 # Proyecto-Clase-Caracteristicas-que-afectan-el-consumo-de-combustible-en-los-carros | Dataset Cars
 
 Integrantes: 
