@@ -1,4 +1,4 @@
-<img src="../BANNER.jpg" style="width:700px;">
+<img src="../img/BANNER.jpg" style="width:700px;">
 
 
 
